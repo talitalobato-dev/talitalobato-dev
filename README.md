@@ -21,34 +21,46 @@ Uma desenvolvedora em constante evolução, apaixonada por tecnologia e aprendiz
 📚 Sempre estudando e evoluindo  
 🤝 Gosto de trocar ideias e aprender com outras pessoas  
 
----
-
 ## 🛠️ Tech Stack  
 
+<table align="center">
+<tr>
+<td align="center">
+
 ### 🔹 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,sass,angular,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,sass,angular,vite" />
+
+</td>
+<td align="center">
 
 ### 🔹 Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,php,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,php,django" />
+
+</td>
+<td align="center">
 
 ### 🔹 Banco de Dados  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### 🔹 Mobile  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+</td>
+<td align="center">
 
 ### 🔹 Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,arduino" />
+
+</td>
+<td></td>
+</tr>
+</table>
 
 
 ## 📂 Projetos em Destaque
